@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A frontend developer from Argentina, crafting web solutions.</h3>
 
+<p>I'm passionate about programming. When I'm not studying or programming, I'm doing some of my favorite activities, like riding my bike or 3d printing. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolascalvo73" alt="nicolascalvo73" /></a> </p>
 
 - 🔭 I’m currently working on **a private project :(**
